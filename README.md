@@ -26,4 +26,5 @@
 4. Data Structures:  
     4.1 *Segment Tree*  
     4.2 *Binary Index Tree* (TODO)  
-    4.3 *Union-Find*
+    4.3 *Union-Find*  
+    4.4 *AVL tree* (balanced BST)

@@ -77,8 +77,7 @@ int getBalance(AVLNode *N)
 {  
     if (N == NULL)  
         return 0;  
-    return depth(N->left) -  
-           depth(N->right);  
+    return depth(N->left) - depth(N->right);  
 }    
 //insertion operation for node in AVL tree 
 AVLNode* insert(AVLNode* node, int key)  {  
