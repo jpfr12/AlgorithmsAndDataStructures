@@ -35,7 +35,6 @@ public:
 
     bool search(string word){
         vertex* cur = root;
-        vertex* cur = root;
         for(int i = 0; i < (int)word.size(); i++){
             int alphaNum = word[i] - 'A';
             if(cur->child[alphaNum] == NULL){
