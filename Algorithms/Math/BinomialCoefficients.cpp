@@ -7,8 +7,6 @@ typedef long long ll;
 ll MAXN = 1e6;
 ll MOD = 1e9;
 
-const int MAXN = 1e6;
-
 vector<ll> fac(MAXN + 1), inv(MAXN + 1);
 		
 /** Computes x^y modulo p in O(log p) time. */
