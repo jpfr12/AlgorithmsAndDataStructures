@@ -1,5 +1,6 @@
 ## Sorting Algorithms
 ---
+
 1. Comparison Algorithms:  
 
 1.1. Insertion Sort  
@@ -13,6 +14,7 @@
 1.3. Merge Sort  
     -   Time complexity: O(nlogn)  
     -   Space complexity: O(n)  
+
 
 2. Non-comparison Algorithms:  
 
