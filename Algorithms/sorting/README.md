@@ -13,6 +13,6 @@
 
 2. Non-comparison Algorithms:  
 2.1. Counting Sort  
-    -   Time complexity: O(n+k)  
-    -   Space complexity: O(n+k)  
+    -    Time complexity: O(n+k)  
+    -    Space complexity: O(n+k)  
 2.2. Radix Sort (TODO)  
