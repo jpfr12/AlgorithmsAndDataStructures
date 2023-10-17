@@ -14,7 +14,11 @@
     
     * https://cses.fi/problemset/task/1158/  
 
-- You can find simmilar problem in the following links:  
+- You can find similar problem in the following links:  
+
+    * https://www.spoj.com/problems/FOODIE/  
+
+    * https://www.spoj.com/problems/WACHOVIA/  
 
     * https://www.beecrowd.com.br/judge/en/problems/view/1798  
 
