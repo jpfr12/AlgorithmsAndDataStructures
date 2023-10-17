@@ -16,8 +16,8 @@ What id DP?  (source: wikipwdia)
     
     - Knapsack problem  
 
-    - Longuest Common Subsequence
+    - Longest Common Subsequence
 
-    - Longuest Increasing Subsequence
+    - Longest Increasing Subsequence
 
     - Coin Change
