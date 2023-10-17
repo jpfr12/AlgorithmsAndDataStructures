@@ -1,6 +1,6 @@
 ## Dynamic Programming  
 
-What id DP?  (source: wikipwdia)
+What id DP?  (source: wikipedia)
 
 * Dynamic programming is both a mathematical optimization method and an algorithmic paradigm. The method was developed by Richard Bellman in the 1950s and has found applications in numerous fields, from aerospace engineering to economics.  
 

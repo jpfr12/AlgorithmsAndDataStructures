@@ -1,4 +1,4 @@
-## Knapsack (souce wikipedia)
+## Knapsack (source wikipedia)
 
 - The knapsack problem is the following problem in combinatorial optimization:  
 
