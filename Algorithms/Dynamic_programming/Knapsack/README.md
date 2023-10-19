@@ -11,6 +11,10 @@
 ---
 
 - The file in this folder solves the following problem in the website:  
+
+    * The Time Complexity of the code is: O(n*m)  
+
+    * Where n is the number of items, and m is the total weight of the books.  
     
     * https://cses.fi/problemset/task/1158/  
 
