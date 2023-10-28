@@ -14,7 +14,7 @@
     
     * https://cses.fi/problemset/task/1158/  
 
-- You can find similar problem in the following links:  
+- You can find similar problems in the following links:  
 
     * https://www.spoj.com/problems/FOODIE/  
 
