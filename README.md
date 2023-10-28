@@ -1,19 +1,21 @@
 ## What is this project?
 
 * I will store here some algorithms and data structures I'm learning in class.
-* Some might be from competitive programming, for exemple the *Segment Tree*
+* Some might be from competitive programming, for example the *Segment Tree*
 
 ---
 
 ## What I have so far:
 
-1. Sorting algorithms: 
+1. Sorting algorithms:
 
     1.1. Merge Sort  
 
     1.2. Insertion Sort  
 
     1.3. Quick Sort  
+
+    1.4. Counting Sort
 
 
 2. Graph/Trees algorithms:  
@@ -37,7 +39,7 @@
 
     3.1 *Binary Search*  
 
-    3.2 *Ternary Search* 
+    3.2 *Ternary Search*
 
 
 4. Data Structures:  
