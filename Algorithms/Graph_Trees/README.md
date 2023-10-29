@@ -26,5 +26,7 @@
 
     - "Level Order Tree Traversal", link: https://www.beecrowd.com.br/judge/en/problems/view/1466  
 
+    - "Cyanide Rivers", link: https://open.kattis.com/problems/cyaniderivers  
+
 
 
