@@ -14,13 +14,13 @@
 
 1.1. Exercises envolving *sliding window*:  
 
-    * "Snowy Hill", link: https://codeforces.com/gym/104217/problem/E  (the slidingWindow file in this folder solves this problem)  
+    - "Snowy Hill", link: https://codeforces.com/gym/104217/problem/E  (the slidingWindow file in this folder solves this problem)  
 
-    * "Aliens at the train", link: https://www.spoj.com/problems/ALIEN/  
+    - "Aliens at the train", link: https://www.spoj.com/problems/ALIEN/  
 
-    * "subarrays", link: https://www.spoj.com/problems/ARRAYSUB/  
+    - "subarrays", link: https://www.spoj.com/problems/ARRAYSUB/  
 
-    * "Subarray Sums I", link: https://cses.fi/problemset/task/1660  
+    - "Subarray Sums I", link: https://cses.fi/problemset/task/1660  
 
 ---  
 
@@ -32,6 +32,6 @@
 
 2.1. Exercises involving *Sweep Line*:  
 
-    * "Number of Flowers in Full Bloom", link: https://leetcode.com/problems/number-of-flowers-in-full-bloom/?envType=daily-question&envId=2023-10-11  
+    - "Number of Flowers in Full Bloom", link: https://leetcode.com/problems/number-of-flowers-in-full-bloom/?envType=daily-question&envId=2023-10-11  
 
-    * "Firefly", link: https://open.kattis.com/problems/firefly  
+    - "Firefly", link: https://open.kattis.com/problems/firefly  
