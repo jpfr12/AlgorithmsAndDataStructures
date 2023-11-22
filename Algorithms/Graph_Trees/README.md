@@ -30,5 +30,7 @@
 
     - "Grid", link: https://open.kattis.com/problems/grid?tab=submissions  
 
+    - "Zoning", link: https://open.kattis.com/problems/zoning?tab=metadata  
+
 
 
