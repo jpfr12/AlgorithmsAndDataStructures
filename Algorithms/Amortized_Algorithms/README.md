@@ -35,3 +35,5 @@
     - "Number of Flowers in Full Bloom", link: https://leetcode.com/problems/number-of-flowers-in-full-bloom/?envType=daily-question&envId=2023-10-11  
 
     - "Firefly", link: https://open.kattis.com/problems/firefly  
+
+    - "A Furious Cocktail", link: https://open.kattis.com/problems/cocktail  
