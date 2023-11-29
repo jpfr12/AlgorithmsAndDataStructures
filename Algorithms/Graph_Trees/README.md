@@ -20,17 +20,35 @@
 
     - "Help Clotilde", link: https://www.beecrowd.com.br/judge/en/problems/view/1910  
 
+        - BFS on 1D array  
+
     - "Connected Components", link: https://www.beecrowd.com.br/judge/en/problems/view/1082  
+
+        - can be solved with either DFS or BFS  
 
     - "Knight Moves", link: https://www.beecrowd.com.br/judge/en/problems/view/1100  
 
+        - BFS single source on 2D array  
+
     - "Level Order Tree Traversal", link: https://www.beecrowd.com.br/judge/en/problems/view/1466  
+
+        - BFS on trees  
 
     - "Cyanide Rivers", link: https://open.kattis.com/problems/cyaniderivers  
 
+        - BFS multi source on 1D array  
+
     - "Grid", link: https://open.kattis.com/problems/grid?tab=submissions  
 
+        - BFS shortest path on 2D array  
+
     - "Zoning", link: https://open.kattis.com/problems/zoning?tab=metadata  
+
+        - BFS multi-souce on 2D array  
+
+    - "10 Kinds of People", link: https://open.kattis.com/problems/10kindsofpeople  
+
+        - BFS, colouring a 2D array and/or flood-fill  
 
 
 
