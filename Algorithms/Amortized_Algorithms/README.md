@@ -6,13 +6,13 @@
 
 ---
 
-1. Sliding Window  
+* Sliding Window  
 
     * A sliding window is a constant-size subarray that moves from left to right through the array. At each window position, we want to calculate some information about the elements inside the window.  
 
     * Time complexity: O(n)  
 
-1.1. Exercises envolving *sliding window*:  
+* Exercises envolving *sliding window*:  
 
     - "Snowy Hill", link: https://codeforces.com/gym/104217/problem/E  (the slidingWindow file in this folder solves this problem)  
 
@@ -24,13 +24,13 @@
 
 ---  
 
-2. Sweep Line  
+* Sweep Line  
 
     * A *sweep line* algorithm models a problem of a set of events that are processed in a sorted order. For example, suppose that there is a restaurant and we know the arriving and leaving times of all customers on a certain day. Our task is to find out the maximum number of customers who visited the restaurant at the same time.  
 
     * Time complexity: O(n)  
 
-2.1. Exercises involving *Sweep Line*:  
+* Exercises involving *Sweep Line*:  
 
     - "Number of Flowers in Full Bloom", link: https://leetcode.com/problems/number-of-flowers-in-full-bloom/?envType=daily-question&envId=2023-10-11  
 
