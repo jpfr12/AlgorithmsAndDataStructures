@@ -22,6 +22,8 @@
 
     - "Subarray Sums I", link: https://cses.fi/problemset/task/1660  
 
+    - "lineup (USACO 2011)", link: https://codebreaker.xyz/problem/lineup  
+
 ---  
 
 * Sweep Line  
