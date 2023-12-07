@@ -42,6 +42,10 @@
 
         - BFS shortest path on 2D array  
 
+    - "Knight Jump", link: https://open.kattis.com/problems/knightjump  
+
+        - BFS shortest path on 2d-array (single source)  
+
     - "Zoning", link: https://open.kattis.com/problems/zoning?tab=metadata  
 
         - BFS multi-souce on 2D array  
