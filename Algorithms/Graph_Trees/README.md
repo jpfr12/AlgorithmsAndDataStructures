@@ -54,5 +54,9 @@
 
         - BFS, colouring a 2D array and/or flood-fill  
 
+    - "Forever Winter", link: https://codeforces.com/contest/1829/problem/F  
+
+        - BFS/DFS on trees. Might be handy to know "Centroid Decomposition", but it is not necessary to pass this problem.  
+
 
 
