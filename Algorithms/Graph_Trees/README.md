@@ -60,7 +60,7 @@
 
     - "Longest Flight Route", link: https://cses.fi/problemset/task/1680  
 
-        - Requires "Topological Sort" in order to your program run in the time limited given.  
+        - Requires "Topological Sort" in order to your program run in the time limit given.  
 
 
 
