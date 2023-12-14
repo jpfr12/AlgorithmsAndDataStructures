@@ -58,5 +58,9 @@
 
         - BFS/DFS on trees. Might be handy to know "Centroid Decomposition", but it is not necessary to pass this problem.  
 
+    - "Longest Flight Route", link: https://cses.fi/problemset/task/1680  
+
+        - Requires "Topological Sort" in order to your program run in the time limited given.  
+
 
 
