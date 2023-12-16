@@ -14,6 +14,10 @@
 
     * The time complexity of this DFS implementation depends on the graph data structure used. In a graph with V vertices and E edges, DFS runs in O(V + E) and O(V^2) if the graph is stored as Adjacency List and Adjacency Matrix, respectively.  
 
+3. Topological Sort:  
+
+    * Topological sort(or topological ordering) of a Directed Acyclic Graph (DAG) is a linear ordering of the vertices in the DAG so that vertex u comes before vertex v if edge(u→v)exists in the DAG. Every DAG has one or more topological sorts.  
+
 ---  
 
 * Problems you can solve using these algorithms:  
