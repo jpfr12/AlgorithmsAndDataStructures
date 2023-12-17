@@ -22,6 +22,10 @@
 
 * Problems you can solve using these algorithms:  
 
+    - "1-D Frogger (Easy)", link: https://open.kattis.com/problems/1dfroggereasy  
+
+        - BFS on 1D array
+
     - "Help Clotilde", link: https://www.beecrowd.com.br/judge/en/problems/view/1910  
 
         - BFS on 1D array  
@@ -48,7 +52,7 @@
 
     - "Knight Jump", link: https://open.kattis.com/problems/knightjump  
 
-        - BFS shortest path on 2d-array (single source)  
+        - BFS shortest path on 2D-array (single source)  
 
     - "Zoning", link: https://open.kattis.com/problems/zoning?tab=metadata  
 
