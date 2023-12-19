@@ -9,3 +9,5 @@
 * Problems:
 
 - "Building an Aquarium", link: https://codeforces.com/contest/1873/problem/E  
+
+    - Use *Binary Search* for finding the optimal height of the Aquarium  
