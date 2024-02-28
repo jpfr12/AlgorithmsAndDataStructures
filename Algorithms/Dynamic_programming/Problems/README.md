@@ -2,9 +2,11 @@
 
 * I will be posting some problems from the following websites: 
 
-    - CodeChef: codechef.com  
+    - CodeChef: www.codechef.com  
 
-    - LeetCode: leetcode.com  
+    - LeetCode: www.leetcode.com  
+
+    - codeforces: www.codeforces.com  
 
 ---
 
@@ -12,4 +14,9 @@
 
     - the file "binarySubstituition.cpp" is one possible solution to this problem  
 
-    - It has time complexity of O(n) and has O(n) space complexity
+    - It has time complexity of O(n) and has O(n) space complexity  
+
+* "Speedy Stamping", link: https://codeforces.com/gym/104157/problem/D  
+
+    - This problem is very similar to "Binary Substitution"  
+
