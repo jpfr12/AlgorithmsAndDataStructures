@@ -12,7 +12,7 @@
 
     * Time complexity: O(n)  
 
-* Exercises envolving *sliding window*:  
+* Exercises involving *sliding window*:  
 
     - "Snowy Hill", link: https://codeforces.com/gym/104217/problem/E  (the slidingWindow file in this folder solves this problem)  
 
@@ -39,3 +39,27 @@
     - "Firefly", link: https://open.kattis.com/problems/firefly  
 
     - "A Furious Cocktail", link: https://open.kattis.com/problems/cocktail  
+
+---
+
+* Monotonic Stack  
+
+    * A "monotonic stack" is a concept rather than a distinct data structure. It is a variation of the regular stack data structure that is used to solve specific problems more efficiently.  
+
+    * In a monotonic stack, elements are stored in such a way that they either strictly increase or strictly decrease in order as you move from the bottom to the top of the stack. This property allows for efficient querying of nearest smaller or larger elements, finding maximum or minimum elements in sliding windows, and solving various other problems involving monotonic sequences.  
+
+    * The monotonic stack concept does not change the underlying implementation of the stack data structure itself. It still supports the usual operations of push and pop, as well as querying the top element, but the elements are arranged in a particular order to facilitate efficient problem-solving.  
+
+    * Time Complexity: O(n)  
+
+* Exercises involving *Monotonic Stack*:  
+
+    - "Largest Number", link: https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/largest-number-7-eee0b7c3/  
+
+    - "Jumpy Humpy", link: https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/jumpy-humpy-5e0231d6/  
+
+        - The file "jumpyHump.cpp" solves this problem.  
+
+    - "Next Greater Element I", link: https://leetcode.com/problems/next-greater-element-i/description/  
+
+    
