@@ -62,4 +62,10 @@
 
     - "Next Greater Element I", link: https://leetcode.com/problems/next-greater-element-i/description/  
 
+    - "Good Indices", link: https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/good-indices-c7058c9b/  
+
+        - The file "goodIndices.cpp" solves this problem.  
+
+    - "Daily Temperatures", link: https://leetcode.com/problems/daily-temperatures/description/  
+
     
