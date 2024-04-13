@@ -1,4 +1,4 @@
-# Amortized Analysis  
+# Amortized Analysis (Common optimization techniques)  
 
 * The time complexity of an algorithm is often easy to analyze just by examining the structure of the algorithm: what loops does the algorithm contain and how many times the loops are performed. However, sometimes a straightforwardanalysis does not give a true picture of the efficiency of the algorithm.  
 

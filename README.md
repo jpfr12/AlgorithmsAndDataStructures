@@ -27,11 +27,13 @@
     2.3. Shortest Path  
 
     -    2.3.1. *Dijkstra*  
+
     -    2.3.2. *Bellman-Ford* (TODO)  
 
     2.4. Minimum Spanning Trees:  
 
     -    2.4.1. *Kruskal* *Algorithm*  
+
     -    2.4.2. *Prim's* *Algorithm*  
 
 
@@ -41,13 +43,22 @@
 
     3.2 *Ternary Search*
 
+4. Amortized Algorithms (Common optimization techniques):  
 
-4. Data Structures:  
+    4.1. *Sliding Window*  
 
-    4.1 *Segment Tree*  
+    4.2. *Line Sweep*  
 
-    4.2 *Binary Index Tree* (TODO)  
+    4.3. *Monotonic Stack*  
 
-    4.3 *Union-Find*  
+    4.4. *Monotonic Queue*  
 
-    4.4 *AVL tree* (balanced BST)
+5. Data Structures:  
+
+    5.1 *Segment Tree*  
+
+    5.2 *Binary Index Tree* (TODO)  
+
+    5.3 *Union-Find*  
+
+    5.4 *AVL tree* (balanced BST)
