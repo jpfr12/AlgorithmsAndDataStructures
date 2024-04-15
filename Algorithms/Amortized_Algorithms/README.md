@@ -68,4 +68,10 @@
 
     - "Daily Temperatures", link: https://leetcode.com/problems/daily-temperatures/description/  
 
+    - "Nearest Smaller Values", link: https://cses.fi/problemset/result/9021150/  
+
+    - "Look Up", from USACO 2009, link: https://www.luogu.com.cn/problem/P2947  
+
+
+
     
