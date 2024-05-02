@@ -24,6 +24,12 @@
 
     - "lineup (USACO 2011)", link: https://codebreaker.xyz/problem/lineup  
 
+    - "Unique Snowflakes", from USACO 2006, link: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=27&page=show_problem&problem=2619  
+
+        - You can see the problem text in the pdf located in this folder  
+
+        - The cpp file named "uniqueSnowflakes" solves this problem
+
 ---  
 
 * Sweep Line  
