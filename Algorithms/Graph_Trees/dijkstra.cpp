@@ -32,11 +32,13 @@ void bfs(int pos){
     while(!pq.empty()){
         pair<ll,ll> p = pq.top();
         pq.pop();
-        if(p.first > dis[p.second]) continue;
-        for(auto i: graph[p.second]){
-            if(dis[p.second] + i.second >= dis[i.first]) continue;
-            dis[i.first] = dis[p.second] + i.second;
-            pq.emplace(dis[i.first], i.first);
+        int val = p.first;
+        int node = p.second;
+        if(val > dis[node]) continue;
+        for(auto i: graph[node]){
+            if(val + i.first >= dis[i.second]) continue;
+            dis[i.second] = val + i.first;
+            pq.emplace(dis[i.second], i.second);
         }
     }
 }
@@ -52,7 +54,7 @@ int main() {
     for(int i = 0; i < m; i++){
         ll a, b, c;
         cin >> a >> b >> c;
-        graph[a].emplace_back(b, c);
+        graph[a].emplace_back(c, b);
     }
     bfs(1);
     for(int i = 1; i <= n; i++){
