@@ -78,6 +78,8 @@
 
     - "Look Up", from USACO 2009, link: https://www.luogu.com.cn/problem/P2947  
 
+    - "K Consequal", link: https://csacademy.com/contest/archive/task/k-consequal/  
+
 
 
     
