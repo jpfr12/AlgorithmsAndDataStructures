@@ -28,7 +28,10 @@
 
         - You can see the problem text in the pdf located in this folder  
 
-        - The cpp file named "uniqueSnowflakes" solves this problem
+        - The cpp file named "uniqueSnowflakes" solves this problem  
+
+    - "Three Parts of the Array", link: https://codeforces.com/contest/1006/problem/C  
+
 
 ---  
 
