@@ -1,4 +1,4 @@
-##DP Problems
+## DP Problems
 
 * I will be posting some problems from the following websites: 
 
@@ -8,7 +8,7 @@
 
     - codeforces: www.codeforces.com  
 
-    - USA Computing OLympiad [USACO]: www.usaco.org  
+    - USA Computing Olympiad [USACO]: www.usaco.org  
 
 ---
 
@@ -26,4 +26,3 @@
 
     - A "top-down" solution for this problem can be found in file "hps.cpp"  
 
-    
