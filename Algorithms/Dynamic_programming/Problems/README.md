@@ -8,6 +8,8 @@
 
     - codeforces: www.codeforces.com  
 
+    - USA Computing OLympiad [USACO]: www.usaco.org  
+
 ---
 
 * "Binary Substituition", link: https://www.codechef.com/practice/course/dynamic-programming/INTDP01/problems/BINARYSUB  
@@ -20,3 +22,8 @@
 
     - This problem is very similar to "Binary Substitution"  
 
+* "Hoof, Paper, Scissors", from USACO 2017, link: https://usaco.org/index.php?page=viewproblem2&cpid=694  
+
+    - A "top-down" solution for this problem can be found in file "hps.cpp"  
+
+    
