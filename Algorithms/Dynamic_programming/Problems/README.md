@@ -10,6 +10,8 @@
 
     - USA Computing Olympiad [USACO]: www.usaco.org  
 
+    - Olimpiada Brasileira de Informatica [OBI]: https://neps.academy/br
+
 ---
 
 * "Binary Substituition", link: https://www.codechef.com/practice/course/dynamic-programming/INTDP01/problems/BINARYSUB  
@@ -26,3 +28,4 @@
 
     - A "top-down" solution for this problem can be found in file "hps.cpp"  
 
+* "Bits", from OBI 2017, link: https://neps.academy/br/course/estrategias-avancadas-de-programacao/lesson/bits  
