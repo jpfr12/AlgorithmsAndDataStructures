@@ -28,4 +28,6 @@
 
     - A "top-down" solution for this problem can be found in file "hps.cpp"  
 
-* "Bits", from OBI 2017, link: https://neps.academy/br/course/estrategias-avancadas-de-programacao/lesson/bits  
+* "Bits", from OBI 2017, link: https://neps.academy/br/exercise/39  
+
+    - can be done with a 2D matrix  
