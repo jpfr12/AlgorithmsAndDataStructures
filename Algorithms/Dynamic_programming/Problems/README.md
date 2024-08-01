@@ -31,3 +31,7 @@
 * "Bits", from OBI 2017, link: https://neps.academy/br/exercise/39  
 
     - can be done with a 2D matrix  
+
+* "O Banco Inteligente", from OBI 2015, link: https://neps.academy/br/exercise/71  
+
+    
