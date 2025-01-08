@@ -1,4 +1,4 @@
-## Segment Tree Problems  
+# Segment Tree Problems  
 
 ---
 
