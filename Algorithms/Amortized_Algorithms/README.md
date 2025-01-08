@@ -83,6 +83,6 @@
 
     - "K Consequal", link: https://csacademy.com/contest/archive/task/k-consequal/  
 
-
+        - A similar problem was used in InfO(1) Cup 2019, "Treasure", and everyone can submit their solution at the following link: https://oj.uz/problem/view/info1cup19_treasure  
 
     
