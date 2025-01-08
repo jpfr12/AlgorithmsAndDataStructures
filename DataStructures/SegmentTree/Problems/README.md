@@ -2,24 +2,26 @@
 
 ---
 
-    1. Problem name: "Living with Courage"  
+    * Problems:  
 
-        - webside: https://www.spoj.com/problems/COURAGE/  
+        * Problem name: "Living with Courage"  
 
-        - Straight-foward Segment Tree  
+            - webside: https://www.spoj.com/problems/COURAGE/  
 
-        - We can use only one Segment Tree that does both minimum range and sum range queries  
+            - Straight-foward Segment Tree  
 
-        - My solution for this problem can be found in "LivingwithCourage.cpp"  
+            - We can use only one Segment Tree that does both minimum range and sum range queries  
 
-    2. Problem name: "payraise"  
+            - My solution for this problem can be found in "LivingwithCourage.cpp"  
 
-        - website: https://codebreaker.xyz/problem/payraise  
+        * Problem name: "payraise"  
 
-        - This problem requires to implement the euler tour on the given tree, memorizing the left and right limit for each worker. Then create a Segment Tree on top of the euler tour in order to do the given queries.  
+            - website: https://codebreaker.xyz/problem/payraise  
 
-        - this problem requires the "Lazy Segment Tree" in order to give fast answers.  
+            - This problem requires to implement the euler tour on the given tree, memorizing the left and right limit for each worker. Then create a Segment Tree on top of the euler tour in order to do the given queries.  
 
-        - My solution to this problem can be found in the "payraise.cpp"  
+            - this problem requires the "Lazy Segment Tree" in order to give fast answers.  
 
-        - A similar problem can be found in this webside: https://dmoj.ca/problem/coci11c3p5  
+            - My solution to this problem can be found in the "payraise.cpp"  
+
+            - A similar problem can be found in this webside: https://dmoj.ca/problem/coci11c3p5  
