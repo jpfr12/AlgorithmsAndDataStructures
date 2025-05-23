@@ -8,6 +8,8 @@
 
     - codeforces: www.codeforces.com  
 
+    - https://atcoder.jp  
+
     - USA Computing Olympiad [USACO]: www.usaco.org  
 
     - Olimpiada Brasileira de Informatica [OBI]: https://neps.academy/br
@@ -35,3 +37,13 @@
 * "O Banco Inteligente", from OBI 2015, link: https://neps.academy/br/exercise/71  
 
     - a "Top-Down" solution for this problem can be found in the "Banco.cpp" file  
+
+* "Longest Path", link: https://atcoder.jp/contests/dp/tasks/dp_g  
+
+    - This problem is part of a Dynamic Programming contest from AtCoder.jp online judge.
+
+    - A solution to this problem can be found in the file "longestPath.cpp" in this folder.  
+
+    - Time Complexity: O(n)  
+
+    - Space Complexity: O(n)  
