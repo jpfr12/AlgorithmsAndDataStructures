@@ -8,7 +8,7 @@
 
     - codeforces: www.codeforces.com  
 
-    - https://atcoder.jp  
+    - AtCoder: https://atcoder.jp  
 
     - USA Computing Olympiad [USACO]: www.usaco.org  
 
@@ -38,11 +38,15 @@
 
     - a "Top-Down" solution for this problem can be found in the "Banco.cpp" file  
 
+    - Time Complexity: O(n*m) where 'n' is the total value and 'm' is the number of coins  
+
+    - Space Complexity: O(n*m)  
+
 * "Longest Path", link: https://atcoder.jp/contests/dp/tasks/dp_g  
 
     - This problem is part of a Dynamic Programming contest from AtCoder.jp online judge.
 
-    - A solution to this problem can be found in the file "longestPath.cpp" in this folder.  
+    - A solution to this problem can be found in the file "longestPath.cpp", located in this folder.  
 
     - Time Complexity: O(n)  
 
